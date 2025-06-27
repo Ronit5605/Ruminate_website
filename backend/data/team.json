@@ -1,0 +1,17 @@
+{
+  "Faculties": [
+    { "name": "Dr. A. Kumar", "role": "Faculty Advisor", "img": "/images/some2.jpg" },
+     { "name": "Dr. A. Kumar", "role": "Faculty Advisor", "img": "/images/some2.jpg" },
+      { "name": "Dr. A. Kumar", "role": "Faculty Advisor", "img": "/images/some2.png" },
+       { "name": "Dr. A. Kumar", "role": "Faculty Advisor", "img": "/images/some2.png" }
+  ],
+  "Alumini": [
+    { "name": "Ravi Sharma", "role": "Alumnus - Batch 2022", "img": "/images/some.png" }
+  ],
+  "Developers": [
+    { "name": "Rahul Jain", "role": "Full Stack Developer", "img": "/images/some.png" }
+  ],
+  "Core Team 2025-2026": [
+    { "name": "Priya Singh", "role": "President", "img": "/images/some.png" }
+  ]
+}

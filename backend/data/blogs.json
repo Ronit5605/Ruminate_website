@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Wonders of Nature",
+    "imageUrl": "/images/some.png",
+    "excerpt": "Explore the hidden beauty of the world around us...",
+    "content": "Nature is not a place to visit, it is home.\nWe are surrounded by beauty, we just have to notice it.\n\nIn this blog, we explore forests, mountains, and rivers."
+  },
+  {
+    "id": "3",
+    "title": "Wonders of Nature",
+    "imageUrl": "/images/some.png",
+    "excerpt": "Explore the hidden beauty of the world around us...",
+    "content": "Nature is not a place to visit, it is home.\nWe are surrounded by beauty, we just have to notice it.\n\nIn this blog, we explore forests, mountains, and rivers."
+  },
+  {
+    "id": "4",
+    "title": "Wonders of Nature",
+    "imageUrl": "/images/some.png",
+    "excerpt": "Explore the hidden beauty of the world around us...",
+    "content": "Nature is not a place to visit, it is home.\nWe are surrounded by beauty, we just have to notice it.\n\nIn this blog, we explore forests, mountains, and rivers."
+  },
+  {
+    "id": "2",
+    "title": "Urban Exploration",
+    "imageUrl": "/images/some.png",
+    "excerpt": "Cities hide stories behind every alley...",
+    "content": "Walking through a city tells you more than reading its history books.\nWe explore graffiti art, local cuisine, and old neighborhoods.\n\nCome with us!"
+  }
+]

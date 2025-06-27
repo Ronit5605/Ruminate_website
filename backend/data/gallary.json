@@ -1,0 +1,26 @@
+{
+  "2024": [
+    { "img": "/images/some2.jpg", "event": "TechFest" },
+    { "img": "/images/some2.jpg", "event": "Cultural" },
+    { "img": "/images/some2.jpg", "event": "Cultural" },
+    { "img": "/images/some2.jpg", "event": "Cultural" },
+    { "img": "/images/some2.jpg", "event": "Cultural" },
+    { "img": "/images/some2.jpg", "event": "Cultural" },
+    { "img": "/images/some2.jpg", "event": "Workshop" }
+  ],
+  "2023": [
+    { "img": "/images/some.png", "event": "TechFest" },
+    { "img": "/images/some.png", "event": "Cultural" },
+    { "img": "/images/some.png", "event": "Workshop" }
+  ],
+  "2022": [
+    { "img": "/images/some.png", "event": "TechFest" },
+    { "img": "/images/some.png", "event": "Cultural" },
+    { "img": "/images/some.png", "event": "Workshop" }
+  ],
+  "2021": [
+    { "img": "/images/some.png", "event": "TechFest" },
+    { "img": "/images/some.png", "event": "Cultural" },
+    { "img": "/images/some.png", "event": "Workshop" }
+  ]
+}
